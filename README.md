@@ -1,10 +1,6 @@
 # B-ME-440-Project
 Project Code
-
-Neil Skilton
-Dr Abadi
-B ME 450
-1/28/2020
+https://github.com/neil-uwb/B-ME-440-Project/blob/master/CTD%20Project.ipynb
 
 Neil Skilton
 Dr. Abadi
