@@ -1,5 +1,4 @@
 # B-ME-440-Project
-Project Code
 https://github.com/neil-uwb/B-ME-440-Project/blob/master/CTD%20Project.ipynb
 
 Neil Skilton
@@ -19,7 +18,7 @@ CTD Report
 	The next piece of this analysis is focusing on the SSP as the season changes. Looking at the graphs below, the thermocline moved closer to the surface as the season moved towards colder surface climate. By dropping the surface temperature, the overall temperature distribution condensed, which pushed the minimum speed of sound closer to the surface.
  
  
-	The third piece of analysis is similar to the previous one in that they both look at temperature changes. As time goes on throughout the day, the sun will eventually no longer shine on the surface of the water. In this situation, a similar conclusion can be drawn in that as the temperature decreases, the thermocline moves closer to the surface. Unfortunately, due to the high density of the “xticks” in the graphs, I am unable to provide direct references, but the start and end times of the dates pulled are similar, so direct comparisons across the graphs can be made. 
+	The third piece of analysis is similar to the previous one in that they both look at temperature changes. As time goes on throughout the day, the sun will eventually no longer shine on the surface of the water. In this situation, a similar conclusion can be drawn in that as the temperature decreases, the thermocline moves closer to the surface, which changes the ssp. Unfortunately, due to the high density of the “xticks” in the graphs, I am unable to provide direct references, but the start and end times of the dates pulled are similar, so direct comparisons across the graphs can be made. 
 	The final analysis looks at how the location affects the ssp. Given the previous sets of analysis, there clearly is a trend forming when it comes to the temperature of the surface. We know from class that places like the Bahamas will have lower thermoclines than places like the poles, which will have the thermocline close to the surface. The trouble here is that the shallow profilers have very little data compared to the deep profilers, so it is harder to predict how the ssp will change at deeper points in the ocean. If we assume that the minimum speed of sounds is recorded on the graphs below, we can see that the Oregon point has a higher base speed of sound compared to the axial profiler seen above.  
 	Provided below is a map of the locations that are being discussed in this report. The axial array is both further offshore and at a higher latitude than the Oregon sampling point. Given their locations, the axial array would be expected to have colder average temperatures, and thus higher thermocline points. This contradicts what was said above, which could mean that our assumption is inaccurate.
   [1]
